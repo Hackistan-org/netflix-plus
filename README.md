@@ -1,6 +1,10 @@
 # Netflix Plus
 Netflix Plus is a Chrome/Brave extension that allows users to mark and skip portions of Netflix videos. Users can mark specific segments of videos, add titles, descriptions, and sensitivity levels to those segments, and then skip them during playback.
 
+# Hackistan
+This project is brought to you thanks to the Hackistan.org project. Join our discord here:
+[https://discord.gg/EPaDABj9cz](https://discord.gg/EPaDABj9cz)
+
 # Features
 - Mark portions of Netflix videos for skipping.
 - Add titles, descriptions, and sensitivity levels to marked portions.
@@ -27,3 +31,7 @@ Netflix Plus is licensed under the MIT License.
 
 # Contact
 For questions or support, you can reach out to hackistan.org@gmail.com.
+
+# Useful links
+- website: [https://hackistan.org](https://hackistan.org) (on progress)
+- discord: [https://discord.gg/EPaDABj9cz](https://discord.gg/EPaDABj9cz)
