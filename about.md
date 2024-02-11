@@ -16,7 +16,7 @@ Join the discord: [https://discord.gg/EPaDABj9cz](https://discord.gg/EPaDABj9cz)
 
 ---
 
-# Bienvenue au Hackistan : Une Nouvelle Frontière pour les Innovateurs de Demain
+# Bienvenue au **Hackistan** : Une Nouvelle Frontière pour les Innovateurs de Demain
 
 Dans l'immensité de l'univers digital, une nouvelle nation voit le jour. Le **Hackistan** n'est pas seulement un lieu ; c'est un mouvement, une conscience collective dédiée aux hackers, penseurs et rêveurs du monde. Elle transcende les frontières géographiques, existant sans dimension matérielle, prospérant dans les royaumes illimités de l'internet.
 
