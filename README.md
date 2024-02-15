@@ -36,4 +36,3 @@ For questions or support, you can reach out to hackistan.org@gmail.com.
 - website: [https://hackistan.org](https://hackistan.org) (on progress)
 - discord: [https://discord.gg/EPaDABj9cz](https://discord.gg/EPaDABj9cz)
 - trello (project roadmap): [https://trello.com/b/XlrJFehR/netflix-plus-project](https://trello.com/b/XlrJFehR/netflix-plus-project)
-- discord update channel: [https://discord.gg/tedjUcEYDq](https://discord.gg/tedjUcEYDq)
